@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "415ce5dadb0e0f480f6a328e48879bb5",
+    "revision": "a1d216a6262c4f24cbc460035bcc3ef9",
     "url": "/checkers-redux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/checkers-redux/static/css/2.46439c26.chunk.css"
   },
   {
-    "revision": "0545a4c91b9e4cdc19b2",
+    "revision": "4c091ad15eb06df1c1f9",
     "url": "/checkers-redux/static/css/main.f864ac22.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/checkers-redux/static/js/2.33b11cd7.chunk.js"
   },
   {
-    "revision": "0545a4c91b9e4cdc19b2",
-    "url": "/checkers-redux/static/js/main.9f40e637.chunk.js"
+    "revision": "4c091ad15eb06df1c1f9",
+    "url": "/checkers-redux/static/js/main.b76f3423.chunk.js"
   },
   {
     "revision": "3fb3a2fcd6f5160c8b4f",
