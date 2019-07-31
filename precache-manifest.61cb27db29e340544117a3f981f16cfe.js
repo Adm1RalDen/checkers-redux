@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1d216a6262c4f24cbc460035bcc3ef9",
+    "revision": "911394e740f42563971698b444843406",
     "url": "/checkers-redux/index.html"
   },
   {
-    "revision": "613253c39ee4b438f352",
-    "url": "/checkers-redux/static/css/2.46439c26.chunk.css"
+    "revision": "856d5e616cc6d9a37a20",
+    "url": "/checkers-redux/static/css/2.a317ec87.chunk.css"
   },
   {
-    "revision": "4c091ad15eb06df1c1f9",
-    "url": "/checkers-redux/static/css/main.f864ac22.chunk.css"
+    "revision": "28b4d5d748736dfc26b7",
+    "url": "/checkers-redux/static/css/main.a0272a5a.chunk.css"
   },
   {
-    "revision": "613253c39ee4b438f352",
-    "url": "/checkers-redux/static/js/2.33b11cd7.chunk.js"
+    "revision": "856d5e616cc6d9a37a20",
+    "url": "/checkers-redux/static/js/2.2d2a2c6a.chunk.js"
   },
   {
-    "revision": "4c091ad15eb06df1c1f9",
-    "url": "/checkers-redux/static/js/main.b76f3423.chunk.js"
+    "revision": "28b4d5d748736dfc26b7",
+    "url": "/checkers-redux/static/js/main.730f7ce5.chunk.js"
   },
   {
     "revision": "3fb3a2fcd6f5160c8b4f",
